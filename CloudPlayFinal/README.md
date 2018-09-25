@@ -43,7 +43,7 @@ are free to do so and proper credits will be given to them.<br/>
 </p>
 <p>
   <b>NOTE: -</b><br/>
-  <b>[26-03-2018]</b><br/>
+  <br/>
   1. Currently, you need to have a Google Account to sign in<br/>
   2. Any currupted media files cannot be played through the player and it will cause an app crash<br/>
   3. Only backup part has been completed, the Sync part is remaining.<br/>
