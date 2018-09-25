@@ -35,7 +35,7 @@ are free to do so and proper credits will be given to them.<br/>
 </p>
 <p>
   <b>FURTHER IMPROVEMENTS THAT WE HAVE PLANNED: -</b>
-  <b>[26-03-2018]</b><br/>
+ <br/>
   1. Create a method that synchronizes the Firebase cloud data to the local storage.<br/>
   2. Allow the users to backup their playlist.<br/>
   3. Create an option for users to sign up using email and password. Also through Facebook Sign in<br/>
@@ -50,7 +50,7 @@ are free to do so and proper credits will be given to them.<br/>
   
 </p>
 <p>
-  <b>UPDATES: -</b>
+ 
 </p>
 
 
