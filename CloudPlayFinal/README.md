@@ -4,7 +4,7 @@
 <br/>
 <b>Team:</b><br/>
 <i>
-<b>Satinderpal Singh Kamboj</b>
+<b>Satinderpal Singh Kamboj</b><br>
 <b>Vishnu Sivadas</b><br/>
 </i><br/>
 <b>School of Computer Science, University of Windsor</b>
